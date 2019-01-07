@@ -1,0 +1,113 @@
+body{
+	background-color: #ecf0f5;
+}
+
+
+.navbar-main{
+	background-color:  #ed1b24;
+	border-bottom: 2px solid #BA0F0F;
+}
+
+.menu-flex{
+	background-color: #851414;	
+}
+
+@media (min-width: 992px) { 
+    .menu-left{
+    min-height: 1000px;
+}
+
+}
+
+.flex-column a{
+	color: white;
+	border-left: 3px solid white;
+	margin-top: 4%;
+	background-color: #D82323;
+	border-radius: 3px;
+	font-family: 'Signika';
+}
+
+.flex-column a:hover{
+	background-color: #DC5151;
+	transition: 0.5s;
+	border-left: 3px solid #DC5151;
+}
+
+.title-main{
+	font-size: 25px;
+	font-family: 'Signika';
+
+}
+
+.title-table-info{
+	color: white;
+	font-size: 2em;
+	background-color: #ed1b24;
+}
+
+.title-register{
+	background-color: #ed1b24;
+	color: white;
+	border-radius: 25px 25px 0 0;
+	font-size: 30px;
+}
+
+.form-register{
+	background-color: white;
+	border-radius: 25px 25px 0 0;
+}
+
+
+#div-images{
+	min-height: 120px;
+}
+
+#valMet{
+	font-size: 20px;
+	border-radius: 10px;
+	padding: 2px;
+	border: 1px solid black;
+	width: 150px;
+}
+
+.row-mcmv{
+	background-color: #EFB3B3;
+	font-weight: 600;
+}
+
+.dropdown-menu{
+	width: 100%;
+}
+
+.dropdown-menu button:hover{
+	background-color: #ed1b24;
+	transition: 0.5s;
+	color: white;
+}
+
+footer{
+	background-color: #ed1b24;
+	height: 15px; 
+}
+
+#img-load{
+    margin-top: 17%;
+}
+
+.header-modal-immobile{
+    background-color: #ed1b24;
+    color: white;
+}
+
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.loading {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: rgba(0,0,0,0.7);
+}

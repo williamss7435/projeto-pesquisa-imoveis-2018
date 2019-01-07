@@ -1,0 +1,25 @@
+body{
+    background-image: url("../_img/background-login.jpg");
+    background-size: 100% 100%;
+}
+
+.box-login{
+	background-color: #FFFFFF;
+	border: 7px solid #BA0F0F;
+	border-radius: 3px;
+	background-color: #ed1b24;
+	border-radius: 5px;
+	margin-top: 6%;
+}
+
+.red{
+	background-color: red;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.green{
+	background-color: green;
+}

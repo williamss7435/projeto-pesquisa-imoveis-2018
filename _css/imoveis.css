@@ -1,0 +1,135 @@
+body{
+    background-color: #D1D8DF;
+}
+
+.bg-red{
+    background-color: #FFEAEA;
+}
+
+.navbar-main{
+	background-color:  #CD3333;
+	border-bottom: 2px solid #BA0F0F;
+}
+
+.dropdown-menu{
+	width: 100%;
+}
+
+.title-pesquisa{
+	background-color: #CD3333;
+	font-size: 1.3em;
+	font-family: 'Fjalla One', sans-serif;
+	text-align: center;
+}
+
+.pesquisa{
+	border: solid 2px #CD3333;
+	border-radius: 5px;
+	box-shadow: 1px 1px 3px #9B9B9B;
+}
+
+.btn-seach{
+	background-color: #CD3333;
+	color: white;
+	width: 100%;
+	font-family: 'Varela Round', sans-serif;
+
+}
+
+.btn-seach:hover{
+	background-color: #8F0D0D;
+	color: white;
+}
+
+
+.head-pesquisa{
+	background-color: #CD3333;
+	color: white;
+}
+.scroll { 
+    overflow-x: scroll;
+    overflow-y: scroll;
+    height: 200px;
+    background-color: yellow;
+    white-space:nowrap;
+} 
+
+.btn-copy{
+	border-radius: 5px;
+	background-color: #78E6F0;
+	border: solid 1px #0E7E8F;
+	color: #2B5F6A;
+	font-size: 0.7em;
+	
+}
+
+table tbody{
+        background-color: #FFD7D7;
+        font-weight: 500;
+}
+
+#input-seach{
+    background: #FFD7D7;
+    font-weight: 500;
+    border: none;
+    
+}
+
+#btn-seach{
+    background: #F1C5C5;
+    font-weight: 500;
+    margin: 1px;
+    color: #A27373;
+}
+
+.modal-full {
+    min-width: 100%;
+    margin: 0;
+}
+
+.modal-full .modal-content {
+    min-height: 100vh;
+}
+
+#list-immobile li{
+    background-color: #CD3333;
+    color: white;
+}
+
+#modal-immobile .modal-header{
+    background-color: #CD3333;
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 2em;
+}
+
+#seach-menu{
+    color: white;
+    font-size: 1.1em;   
+}
+
+#seach-menu:hover{
+    color: yellow;
+    transition: 1s;
+}
+
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.loading {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: rgba(0,0,0,0.7);
+}
+
+#img-load{
+    margin-top: 17%;
+}
+
+.header-modal-immobile{
+    background-color: #ed1b24;
+    color: white;
+}
