@@ -1,13 +1,31 @@
-# projeto-pesquisa-imoveis-2018<br>
-Projeto pessoal, me desafiei a fazer um sistema completa de pesquisa de imóveis.<br>
-Data: 05/2018<br>
-Descrição: Projeto integrado com o API do Google Maps, SQL, PHP JQUERY, Bootstrap e Ajax. O sistema tem como foco administrar imóveis.<br>
+# Projeto Pesquisa De Imóveis 2018
 
-Lado do usuário:<br>
-<a href="http://pt-br.tinypic.com?ref=2d9ntoj" target="_blank"><img src="http://i64.tinypic.com/2d9ntoj.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
-<a href="http://pt-br.tinypic.com?ref=eg7s7k" target="_blank"><img src="http://i63.tinypic.com/eg7s7k.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+> Projeto pessoal, me desafiei a fazer um sistema completa de pesquisa de imóveis.<br>
 
-<br>
-Lado do Administrador<br>
-<a href="http://pt-br.tinypic.com?ref=2wrdjz5" target="_blank"><img src="http://i66.tinypic.com/2wrdjz5.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
-<a href="http://pt-br.tinypic.com?ref=rqyi2u" target="_blank"><img src="http://i66.tinypic.com/rqyi2u.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+> Data: 05/2018
+
+> Descrição: Projeto integrado com o API do Google Maps, SQL, PHP JQUERY, Bootstrap e Ajax. O sistema tem como foco administrar imóveis.
+
+## Lado do usuário
+
+### Tela de Pesquisa
+
+![user-search](https://user-images.githubusercontent.com/37387374/53837086-80b8ea00-3f70-11e9-8c96-8ca0777f96d5.jpg)
+
+### Detalhes do Imóveil
+
+> Integração Com o Google Maps
+
+![user-detail](https://user-images.githubusercontent.com/37387374/53837102-8dd5d900-3f70-11e9-968a-db3ea9927fd0.jpg)
+
+
+## Lado do Administrador
+
+### Cadastro de Fotos
+
+![admin-photo](https://user-images.githubusercontent.com/37387374/53837129-a219d600-3f70-11e9-80e3-2078b3026136.jpg)
+
+### Novo Usuário
+
+![admin-new-user](https://user-images.githubusercontent.com/37387374/53837177-bfe73b00-3f70-11e9-95ba-32aa45e425f9.jpg)
+
